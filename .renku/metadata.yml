@@ -1,0 +1,30 @@
+'@id': https://renkulab.io/projects/jean-paul.calbimonte/syris-data
+'@type':
+- http://schema.org/Project
+- http://www.w3.org/ns/prov#Location
+http://schema.org/agent: 0.14.0
+http://schema.org/creator:
+  '@id': mailto:jean-paul.calbimonte@hevs.ch
+  '@type':
+  - http://schema.org/Person
+  - http://www.w3.org/ns/prov#Person
+  http://schema.org/affiliation: null
+  http://schema.org/alternateName: null
+  http://schema.org/email: jean-paul.calbimonte@hevs.ch
+  http://schema.org/name: "Jean-Paul Calbimonte P\xE9rez"
+  http://www.w3.org/2000/01/rdf-schema#label: "Jean-Paul Calbimonte P\xE9rez"
+http://schema.org/dateCreated: '2021-03-22T14:03:18.501374+00:00'
+http://schema.org/name: syris-data
+http://schema.org/schemaVersion: '8'
+https://swissdatasciencecenter.github.io/renku-ontology#automatedTemplateUpdate: false
+https://swissdatasciencecenter.github.io/renku-ontology#immutableTemplateFiles: []
+https://swissdatasciencecenter.github.io/renku-ontology#templateId: python-minimal
+https://swissdatasciencecenter.github.io/renku-ontology#templateMetadata: '{"__template_source__":
+  "https://github.com/SwissDataScienceCenter/renku-project-template", "__template_ref__":
+  "0.1.17", "__template_id__": "python-minimal", "__namespace__": "jean-paul.calbimonte",
+  "__automated_update__": true, "__repository__": "https://renkulab.io/gitlab", "__sanitized_project_name__":
+  "syris-data", "__project_slug__": "jean-paul.calbimonte/syris-data", "description":
+  "", "name": "syris-data"}'
+https://swissdatasciencecenter.github.io/renku-ontology#templateReference: 0.1.17
+https://swissdatasciencecenter.github.io/renku-ontology#templateSource: https://github.com/SwissDataScienceCenter/renku-project-template
+https://swissdatasciencecenter.github.io/renku-ontology#templateVersion: 73db625bf5d9effa1d76a4e5e1fcbcb1a927f654
