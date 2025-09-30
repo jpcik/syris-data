@@ -1,0 +1,39 @@
+{
+  "@renku_data_type": "renku.domain_model.project.Project",
+  "@renku_oid": "project",
+  "agent_version": "2.9.4",
+  "annotations": [],
+  "creator": {
+    "@renku_data_type": "renku.domain_model.provenance.agent.Person",
+    "@renku_data_value": {
+      "affiliation": null,
+      "alternate_name": null,
+      "email": "jean-paul.calbimonte@hevs.ch",
+      "id": "mailto:jean-paul.calbimonte@hevs.ch",
+      "name": "Jean-Paul Calbimonte Pérez"
+    }
+  },
+  "date_created": {
+    "@renku_data_type": "datetime.datetime",
+    "@renku_data_value": "2021-03-22T14:03:18.501374+00:00"
+  },
+  "description": null,
+  "id": "/projects/jean-paul.calbimonte/syris-data",
+  "image": null,
+  "keywords": [],
+  "minimum_renku_version": "2.8.0",
+  "name": "syris-data",
+  "template_metadata": {
+    "@renku_data_type": "renku.domain_model.project.ProjectTemplateMetadata",
+    "@renku_data_value": {
+      "immutable_template_files": [],
+      "metadata": "{\"__template_source__\": \"https://github.com/SwissDataScienceCenter/renku-project-template\", \"__template_ref__\": \"0.1.17\", \"__template_id__\": \"python-minimal\", \"__namespace__\": \"jean-paul.calbimonte\", \"__automated_update__\": true, \"__repository__\": \"https://renkulab.io/gitlab\", \"__sanitized_project_name__\": \"syris-data\", \"__project_slug__\": \"jean-paul.calbimonte/syris-data\", \"description\": \"\", \"name\": \"syris-data\"}",
+      "ssh_supported": false,
+      "template_id": "python-minimal",
+      "template_ref": "0.1.17",
+      "template_source": "https://github.com/SwissDataScienceCenter/renku-project-template",
+      "template_version": "73db625bf5d9effa1d76a4e5e1fcbcb1a927f654"
+    }
+  },
+  "version": "10"
+}
