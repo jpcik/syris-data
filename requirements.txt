@@ -4,3 +4,4 @@ matplotlib
 descartes
 geopandas
 rdflib
+requests
